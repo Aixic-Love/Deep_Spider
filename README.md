@@ -42,11 +42,11 @@
 
 ## 流程图
 
-![image-20191104112313146](/Volumes/Work/Image/image-20191104112313146.png)
+![image-20191104112313146](./Image/image-20191104112313146.png)
 
 ## 用法
 
-![image-20191104113003023](/Volumes/Work/Image/image-20191104113003023.png)
+![image-20191104113003023](./Image/image-20191104113003023.png)
 
 
 
