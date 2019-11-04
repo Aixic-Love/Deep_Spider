@@ -9,6 +9,8 @@
 
 **注：如发现bug请联系我~ aixic@qq.com**
 
+![WechatIMG3](https://github.com/Aixic-Love/Deep_Spider/raw/master/Image/WechatIMG3.jpeg)
+
 ### 优势：
 
 * 通过目标站点进行URL的爬取；
