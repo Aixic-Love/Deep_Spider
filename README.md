@@ -1,4 +1,5 @@
 # Deep_Spider
+![PyPI version](https://img.shields.io/badge/Python-3.6+-blue.svg) [![ElasticSearch version]
 
 > 提取JS_URL的正则部分使用的是[JSFinder](https://github.com/Threezh1/JSFinder) 
 
