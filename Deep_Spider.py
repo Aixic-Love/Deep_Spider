@@ -23,8 +23,8 @@ r2 = redis.Redis(host='localhost', port=6379, password='****',decode_responses=T
 def parse_args():
     parser = argparse.ArgumentParser(epilog='\tExample: \r\npython3 ' + sys.argv[0] + " -u http://www.mi.com")
     parser.add_argument("-u", "--url", help="输入个网站")#,action='store_true')
-    parser.add_argument("-d", "--deep", help="输入爬虫深度",action='store_true', default=1)
-    parser.add_argument("-t", "--thread", help="输入使用的线程数", action='store_true', default=10)
+    parser.add_argument("-d", "--deep", help="输入爬虫深度", default=1)#,action='store_true', default=1)
+    parser.add_argument("-t", "--thread", help="输入使用的线程数", default=10)#, action='store_true', default=10)
     parser.add_argument("-c", "--clear", help="重置Redis数据库",action='store_true', default=False)
     return parser.parse_args()
 
