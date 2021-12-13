@@ -1,5 +1,5 @@
 beautifulsoup4==4.8.1
-lxml==4.4.1
+lxml==4.6.5
 mysqlclient==1.4.4
 redis==3.3.11
 requests==2.22.0
